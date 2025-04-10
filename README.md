@@ -1,5 +1,16 @@
-# 💫 About Me:
-I'm currently working on Building a modern, responsive portfolio website using React, TypeScript, Material-UI, and Framer Motion with interactive components and smooth animations.<br><br>Developing predictive models (LightGBM, XGBoost, Random Forest) for the Instacart Market Basket dataset using advanced feature engineering and performance tuning.<br>I'm looking to collaborate on: <br><br>I'm looking to collaborate on full stack applications where I can focus on the database side—designing and managing relational databases, optimizing queries, and ensuring efficient data flow. I'm also interested in projects involving machine learning modeling and data analytics to extract insights and build predictive capabilities.<br><br>📚 I'm currently learning:<br><br>Docker for containerizing applications and improving DevOps processes in web and ML projects.<br><br>UI/UX development strategies through coursework and hands-on projects using React and design systems like Material-UI.<br>
+# 💫 About Me
+
+🚀 I'm currently working on building a modern, responsive portfolio website using **React**, **TypeScript**, **Material-UI**, and **Framer Motion**—complete with interactive components and smooth animations.
+
+🧠 I'm also developing predictive models using **LightGBM**, **XGBoost**, and **Random Forest** on the **Instacart Market Basket dataset**, applying advanced feature engineering and performance tuning techniques.
+
+🤝 **I'm looking to collaborate on:**
+- Full stack applications where I can contribute to the **database architecture**, manage **relational databases**, optimize queries, and ensure efficient data flow.
+- Projects involving **machine learning modeling** and **data analytics** to uncover insights and build intelligent, data-driven features.
+
+📚 **Currently learning:**
+- **Docker** for containerizing applications and enhancing DevOps workflows in both web and ML projects.
+- **UI/UX development strategies** through hands-on projects and coursework, using **React** and modern design systems like **Material-UI**.
 
 
 ## 🌐 Socials:
